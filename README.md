@@ -1,8 +1,8 @@
 ## EXNO-3-DS
 
-### NAME: G.Sindhu Priya Reddy
+### NAME: Surya SK
 
-### REG.NO: 212224040319
+### REG.NO: 212222100052
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
